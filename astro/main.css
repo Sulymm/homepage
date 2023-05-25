@@ -56,6 +56,15 @@
     border-radius: 8px;
 
 }
+.end-section{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+footer{
+    padding: 10px;
+    margin: 10px;
+}
 @media screen and (min-width:768px){
     .products{
         flex-direction: row;
